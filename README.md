@@ -22,7 +22,7 @@ That's why I started with a programming bootcamp.
 | Anime | ⛩️ |
 
 ---
-🌱 I’m currently learning 
+👓 I’m currently learning 
 - Front End Devolopment (HTML, CSS, JS)
 - and more...
 
