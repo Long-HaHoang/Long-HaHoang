@@ -4,8 +4,6 @@
 
 # Hi, I'm Long :wave:
 
----
-
 ## About me
 I used to study computer science but later switched to another major, electrical engineering.  
 I wanted to elevate my hobby to a profession.  
