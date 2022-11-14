@@ -8,7 +8,7 @@
 
 ## About me
 I used to study computer science but later switched to another major, electrical engineering.  
-I want to elevate my hobby to a profession.  
+I wanted to elevate my hobby to a profession.  
 That's why I started with a programming bootcamp.
 
 
