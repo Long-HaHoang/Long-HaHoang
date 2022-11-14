@@ -7,11 +7,19 @@
 ---
 
 ## About me
+I used to study computer science but later switched to another major, electrical engineering.  
+I want to elevate my hobby to a profession.  
+That's why I started with a programming bootcamp.
+
 
 👀 I’m interested in 
-- Books 📖
-- Games 🕹
-- Drawing 🎨
+
+| Type | Emoji |
+| ----------- | ----------- |
+| Books | 📖 |
+| Games | 🕹 |
+| Drawing | 🎨 |
+| Anime | ⛩️ |
 
 ---
 🌱 I’m currently learning 
