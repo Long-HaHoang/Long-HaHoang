@@ -7,6 +7,7 @@
 I used to study computer science but later switched to another major, electrical engineering.  
 Now I'm back to learn more about frontend development
 
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Long-HaHoang&show_icons=true&theme=dark"
@@ -19,6 +20,11 @@ Now I'm back to learn more about frontend development
 <img src="https://github-readme-stats.vercel.app/api?username=Long-HaHoang&show_icons=true" />
 </picture>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Long-HaHoang&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Long-HaHoang&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ---
 👓 I’m currently learning 
 - Basic Frontend (HTML, CSS, JS)
@@ -28,7 +34,8 @@ Now I'm back to learn more about frontend development
 - Simple Web Design
 
 ---
-
+💁 Credits:
+- [Github readme stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Long-HaHoang/Long-HaHoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
