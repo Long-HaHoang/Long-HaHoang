@@ -3,6 +3,8 @@
 
 # Hi, I'm Long :wave:
 
+[![wakatime](https://wakatime.com/badge/user/ac393439-234c-4ba8-8b33-3c216130ba53.svg)](https://wakatime.com/@ac393439-234c-4ba8-8b33-3c216130ba53)
+
 ## About me
 I used to study computer science but later switched to another major, electrical engineering.  
 Now I'm back to learn more about frontend development
