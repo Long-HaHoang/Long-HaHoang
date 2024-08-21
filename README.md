@@ -13,14 +13,24 @@ Now I'm back to learn more about frontend development
 
 ## Github Stats
 
+
+
+<details>
+
+<summery>:zap: Github Stats</summery>
+
 ![Long-HaHoang's GitHub stats (Dark Mode)](https://github-readme-stats-pied-gamma-88.vercel.app/api?username=Long-HaHoang&show_icons=true&theme=city_lights#gh-dark-mode-only)
 ![Top Langs (Dark Mode)](https://github-readme-stats-pied-gamma-88.vercel.app/api/top-langs/?username=Long-HaHoang&layout=compact&theme=city_lights#gh-dark-mode-only)
 
 
-![Long-HaHoang's GitHub stats (Light Mode)](https://github-readme-stats-pied-gamma-88.vercel.app/api?username=Long-HaHoang&show_icons=true&theme=default#gh-light-mode-only)
-![Top Langs (Light Mode)](https://github-readme-stats-pied-gamma-88.vercel.app/api/top-langs/?username=Long-HaHoang&layout=compact&theme=default#gh-light-mode-only)
+<img alt="Long-HaHoang's Github Stats (Light Mode)" src="https://github-readme-stats-pied-gamma-88.vercel.app/api?username=Long-HaHoang&show_icons=true&theme=default#gh-light-mode-only" />
+
+<img alt="Long-HaHoang's Github Stats (Light Mode)" src="https://github-readme-stats-pied-gamma-88.vercel.app/api/top-langs/?username=Long-HaHoang&layout=compact&theme=default#gh-light-mode-only" />
+
+</details>
 
 ---
+
 👓 I’m currently learning 
 - Basic Frontend (HTML, CSS, JS)
 - Frontend Framework (React + Next.js)
